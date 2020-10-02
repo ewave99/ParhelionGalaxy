@@ -1,2 +1,2 @@
 compile:
-	ssg5 src dst 'ParhelionGalaxy' 'http://www' 
+	ssg5 src docs 'ParhelionGalaxy' 'http://www' 
