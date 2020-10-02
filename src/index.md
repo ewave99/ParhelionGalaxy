@@ -6,4 +6,3 @@ interesting.
 ---
 
 ## Articles:
-- [article 1](article1.html)
