@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+filename="${1%.*}"
+filename="${filename##*/}"
+
+read -p 'Title: ' title
+
+echo "- [${title}](${filename}.html)" >> src/index.md
+
+echo "# ${title}" > "src/${filename}.md"
+echo >> "src/${filename}.md"
+echo >> "src/${filename}.md"
+
+vim "src/${filename}.md"
