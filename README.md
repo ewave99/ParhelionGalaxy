@@ -1,2 +1,2 @@
 # ParhelionGalaxy
-Just a little thing where I express myself and put up stuff that I find interesting.
+Just a little blog where I put up stuff that I find interesting.
