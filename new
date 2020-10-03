@@ -13,7 +13,7 @@ rm xx00 xx01
 
 echo "[<-- Back to Main Page](index.html)" >> "src/${filename}.md"
 echo >> "src/${filename}.md"
-echo "# ${title}" > "src/${filename}.md"
+echo "# ${title}" >> "src/${filename}.md"
 echo "*$(date +"%d %b %Y")*" >> "src/${filename}.md"
 echo >> "src/${filename}.md"
 echo >> "src/${filename}.md"
