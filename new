@@ -2,12 +2,14 @@
 
 filename="${1%.*}"
 filename="${filename##*/}"
+filename="$(date +"%F")-${filename}"
 
 read -p 'Title: ' title
 
-echo "- [${title}](${filename}.html)" >> src/index.md
+echo "- $(date +"%d %b %Y") - [${title}](${filename}.html)" >> src/index.md
 
 echo "# ${title}" > "src/${filename}.md"
+echo "*$(date +"%d %b %Y")*" >> "src/${filename}.md"
 echo >> "src/${filename}.md"
 echo >> "src/${filename}.md"
 

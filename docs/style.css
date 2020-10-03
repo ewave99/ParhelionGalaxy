@@ -2,7 +2,7 @@ html { font-size: 20px; -webkit-text-size-adjust: 100%; }
 hr { border: 0; margin-top: 2rem; }
 hr, h1, h2 { margin-top: 3rem; }
 li { padding: .125rem 0; }
-p { font-family: "Roboto", "Noto Sans", sans-serif; }
+p, li { font-family: "Roboto", "Noto Sans", sans-serif; }
 p img, table { max-width: 100%; }
 pre em { background-color: #fea; font-style: normal; }
 pre i { font-style: normal; color: #333; }

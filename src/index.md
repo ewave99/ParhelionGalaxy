@@ -1,8 +1,8 @@
 # ParhelionGalaxy
 
-Just a little thing where I express myself and put up stuff that I find
-interesting.
+Just a little thing where I put up stuff that I find interesting.
 
 ---
 
-## Articles:
+## Posts:
+- 03 Oct 2020 - [Books I'm Reading](2020-10-03-books.html)
