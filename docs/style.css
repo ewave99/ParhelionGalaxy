@@ -1,3 +1,6 @@
+/* Credit to Roman Zolotarev <romanzolotarev.com> for their stylesheet, from
+   which this file is derived. */
+
 html { font-size: 20px; -webkit-text-size-adjust: 100%; }
 hr { border: 0; margin-top: 2rem; }
 hr, h1, h2 { margin-top: 3rem; }
