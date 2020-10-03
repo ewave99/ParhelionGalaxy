@@ -8,10 +8,10 @@ read -p 'Title: ' title
 
 echo "- $(date +"%d %b %Y") - [${title}](${filename}.html)" >> src/index.md
 
+echo "[<-- Back to Main Page](index.html)" >> "src/${filename}.md"
+echo >> "src/${filename}.md"
 echo "# ${title}" > "src/${filename}.md"
 echo "*$(date +"%d %b %Y")*" >> "src/${filename}.md"
-echo >> "src/${filename}.md"
-echo "[<-- Back to Main Page](index.html)" >> "src/${filename}.md"
 echo >> "src/${filename}.md"
 echo >> "src/${filename}.md"
 
