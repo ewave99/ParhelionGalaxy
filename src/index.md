@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 10 Oct 2020 - The Guardian - ['This is the Everest of zero carbon' – inside York's green home revolution](https://www.theguardian.com/artanddesign/2020/oct/04/everest-zero-carbon-inside-yorks-green-home-revolution)
 - 10 Oct 2020 - The Guardian - [Don't look away now: are viewers finally ready for the truth about nature?](https://www.theguardian.com/environment/2020/sep/18/dont-look-away-now-are-viewers-finally-ready-for-the-truth-about-nature-aoe)
 - 08 Oct 2020 - [ssg by Roman Zolotarev](2020-10-08-ssg5.html)
 - 07 Oct 2020 - Thomas Oppong - [The Undisciplined Pursuit of More (The Art of Limiting Yourself to Only The Essential)](https://getpocket.com/explore/item/the-undisciplined-pursuit-of-more-the-art-of-limiting-yourself-to-only-the-essential)
