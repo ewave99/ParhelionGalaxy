@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 14 Oct 2020 - Aeon - [Neither nasty nor brutish](https://aeon.co/essays/why-were-the-ik-people-vilified-as-selfish-and-nasty)
 - 12 Oct 2020 - The Guardian - [Michael Rosen on his Covid-19 coma](https://www.theguardian.com/books/2020/sep/30/michael-rosen-on-his-covid-19-coma-it-felt-like-a-pre-death-a-nothingness)
 - 10 Oct 2020 - The Guardian - ['This is the Everest of zero carbon' – inside York's green home revolution](https://www.theguardian.com/artanddesign/2020/oct/04/everest-zero-carbon-inside-yorks-green-home-revolution)
 - 10 Oct 2020 - The Guardian - [Don't look away now: are viewers finally ready for the truth about nature?](https://www.theguardian.com/environment/2020/sep/18/dont-look-away-now-are-viewers-finally-ready-for-the-truth-about-nature-aoe)
