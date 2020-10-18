@@ -21,7 +21,7 @@ Facebook.
 
 The webinar I attended was hosted by Venda Premkumar.
 
-**Speakers:**
+### *Speakers:*
 
 - Venda Premkumar, *NEU union Redbridge District secretary*
 - Daniel Kebede, *NEU union senior vice president*
@@ -152,3 +152,8 @@ The webinar I attended was hosted by Venda Premkumar.
   education
   - It is also a problem for white students as they see a distorted version of
     history
+
+---
+
+### *Wider Links:*
+- <https://decolonisingtheartscurriculum.myblog.arts.ac.uk/>
