@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 14 Nov 2020 - [World first: Dutch brewery burns iron as a clean, recyclable fuel ](https://newatlas.com/energy/bavarian-brewery-carbon-free-renewable-iron-fuel/)
 - 17 Oct 2020 - [Notes on Stand Up To Racism Zoom Webinar: "Decolonise Now! - Confronting Britain's Colonial Legacy"](2020-10-17-sutr-decolonising-education.html)
 - 15 Oct 2020 - Eventbrite - [Stand Up To Racism International Conference](https://www.eventbrite.co.uk/e/stand-up-to-racism-international-conference-tickets-119722971631)
 - 14 Oct 2020 - Aeon - [Why were the Ik people vilified as selfish and nasty?](https://aeon.co/essays/why-were-the-ik-people-vilified-as-selfish-and-nasty)
