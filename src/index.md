@@ -5,6 +5,8 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 24 Jan 2021 - Earth To Abigail - [Becoming A Programmer: My Uncensored Story](https://www.earthtoabigail.com/blog/becoming-a-programmer-uncensored-story)
+- 24 Jan 2021 - YouTube - [Earth To Abigail](https://earthtoabigail.com) - [Anagogic Inference of Sorting Algorithms](https://youtu.be/O59K5W-ddls)
 - 28 Nov 2020 - The New Yorker - [The Underground Movement Trying to Topple the North Korean Regime](https://www.newyorker.com/magazine/2020/11/23/the-underground-movement-trying-to-topple-the-north-korean-regime)
 - 14 Nov 2020 - New Atlas - [World first: Dutch brewery burns iron as a clean, recyclable fuel ](https://newatlas.com/energy/bavarian-brewery-carbon-free-renewable-iron-fuel/)
 - 17 Oct 2020 - [Notes on Stand Up To Racism Zoom Webinar: "Decolonise Now! - Confronting Britain's Colonial Legacy"](2020-10-17-sutr-decolonising-education.html)
