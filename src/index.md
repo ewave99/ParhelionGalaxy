@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 11 Feb 2021 - [Music I've Recently Acquired](2021-02-11-music.html)
 - 24 Jan 2021 - YouTube - [Ryan Kirkbide](https://www.youtube.com/channel/UCoFrvfpBHPMvXi9kWsZyGCQ) - [Making melodic pop techno in FoxDot](https://youtu.be/No-bBhbJAac)
 - 24 Jan 2021 - Earth To Abigail - [Becoming A Programmer: My Uncensored Story](https://www.earthtoabigail.com/blog/becoming-a-programmer-uncensored-story)
 - 24 Jan 2021 - YouTube - [Earth To Abigail](https://earthtoabigail.com) - [Anagogic Inference of Sorting Algorithms](https://youtu.be/O59K5W-ddls)
