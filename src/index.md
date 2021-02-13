@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 13 Feb 2021 - YouTube - [Sydney Opera House](https://www.youtube.com/channel/UCvzqRBw-s63GzEaI4q4Y8dg) - [Who's afraid of Fran Lebowitz?](https://youtu.be/PWBYgsv35zc)
 - 11 Feb 2021 - [Music I've Recently Acquired](2021-02-11-music.html)
 - 24 Jan 2021 - YouTube - [Ryan Kirkbide](https://www.youtube.com/channel/UCoFrvfpBHPMvXi9kWsZyGCQ) - [Making melodic pop techno in FoxDot](https://youtu.be/No-bBhbJAac)
 - 24 Jan 2021 - Earth To Abigail - [Becoming A Programmer: My Uncensored Story](https://www.earthtoabigail.com/blog/becoming-a-programmer-uncensored-story)
