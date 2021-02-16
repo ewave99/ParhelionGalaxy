@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 16 Feb 2021 - Baron Schwartz - [How to Style Images With Markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 - 16 Feb 2021 - [Origami Tessellation](2021-02-16-origami-tessellation.html)
 - 13 Feb 2021 - YouTube - [Sydney Opera House](https://www.youtube.com/channel/UCvzqRBw-s63GzEaI4q4Y8dg) - [Who's afraid of Fran Lebowitz?](https://youtu.be/PWBYgsv35zc)
 - 11 Feb 2021 - [Music I've Recently Acquired](2021-02-11-music.html)
