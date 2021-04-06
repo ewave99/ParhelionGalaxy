@@ -5,6 +5,7 @@ Just a little blog where I put up stuff that I find interesting.
 ---
 
 ## Posts:
+- 06 Apr 2021 - Aeon - [The Empty Brain](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 - 15 Mar 2021 - Teen Vogue - [The Racist & Misogynistic History of Prom](https://www.teenvogue.com/video/watch/the-racist-misogynistic-history-of-prom)
 - 16 Feb 2021 - Baron Schwartz - [How to Style Images With Markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 - 16 Feb 2021 - [Origami Tessellation](2021-02-16-origami-tessellation.html)
